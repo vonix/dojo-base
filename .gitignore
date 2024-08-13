@@ -1,0 +1,23 @@
+# package directories
+node_modules
+jspm_packages
+flow-typed
+
+# Serverless directories
+.serverless
+
+# build
+dist
+.webpack
+
+# Environment
+.env
+.env.production
+.env.development
+deploy_key
+
+# Settings
+.vscode
+coverage/
+
+.DS_Store
